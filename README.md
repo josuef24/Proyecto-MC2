@@ -1,2 +1,4 @@
-# Video funcionamiento proyecto MC2
-Link: https://drive.google.com/file/d/1idK3AuOX_4JwTO2b78Q6YhU_eiLBXGa6/view?usp=sharing
+# Proyecto MC2
+Carpeta de drive con video+ejecutable
+
+Link: https://drive.google.com/drive/folders/1cLpsO1OehDBxhRpieje0nDiR6fc9RtQ4?usp=sharing
